@@ -1,0 +1,132 @@
+[
+  {
+    "Id": "10089232186",
+    "Unread": true,
+    "Subject": {
+      "Title": "feat: environment command",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/meshery/meshery/pulls/10663"
+    },
+    "updated_at": "2024-04-07T20:07:52Z"
+  },
+  {
+    "Id": "9694860170",
+    "Unread": true,
+    "Subject": {
+      "Title": "feat: push and pull subcommand for model command",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/meshery/meshery/pulls/10483"
+    },
+    "updated_at": "2024-04-07T20:05:21Z"
+  },
+  {
+    "Id": "10135535858",
+    "Unread": true,
+    "Subject": {
+      "Title": "Model Component Generator and Updater workflow run failed for master branch",
+      "Type": "CheckSuite",
+      "URL": ""
+    },
+    "updated_at": "2024-04-05T01:05:26Z"
+  },
+  {
+    "Id": "10126843879",
+    "Unread": true,
+    "Subject": {
+      "Title": "Do not set dockerfile parameter to an empty string to align with behavior of alpha controller",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/shipwright-io/build/pulls/1569"
+    },
+    "updated_at": "2024-04-04T15:20:55Z"
+  },
+  {
+    "Id": "9945364316",
+    "Unread": true,
+    "Subject": {
+      "Title": "[SHIP-0038] Use Release Branches for Releasing",
+      "Type": "Issue",
+      "URL": "https://api.github.com/repos/shipwright-io/operator/issues/197"
+    },
+    "updated_at": "2024-04-04T14:09:37Z"
+  },
+  {
+    "Id": "9945456091",
+    "Unread": true,
+    "Subject": {
+      "Title": "[SHIP-0038] Use Release Branches for Releasing",
+      "Type": "Issue",
+      "URL": "https://api.github.com/repos/shipwright-io/cli/issues/238"
+    },
+    "updated_at": "2024-04-04T14:09:42Z"
+  },
+  {
+    "Id": "10121974100",
+    "Unread": true,
+    "Subject": {
+      "Title": "Bump github.com/prometheus/client_model from 0.6.0 to 0.6.1",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/shipwright-io/build/pulls/1568"
+    },
+    "updated_at": "2024-04-04T13:52:57Z"
+  },
+  {
+    "Id": "10102845123",
+    "Unread": true,
+    "Subject": {
+      "Title": "Model Component Generator and Updater workflow run failed for master branch",
+      "Type": "CheckSuite",
+      "URL": ""
+    },
+    "updated_at": "2024-04-03T01:04:52Z"
+  },
+  {
+    "Id": "10092199955",
+    "Unread": true,
+    "Subject": {
+      "Title": "Correct multiple secret values in one array parameter that references different secret variables",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/shipwright-io/build/pulls/1566"
+    },
+    "updated_at": "2024-04-02T15:10:41Z"
+  },
+  {
+    "Id": "10086897179",
+    "Unread": true,
+    "Subject": {
+      "Title": "Model Component Generator and Updater workflow run failed for master branch",
+      "Type": "CheckSuite",
+      "URL": ""
+    },
+    "updated_at": "2024-04-02T01:08:05Z"
+  },
+  {
+    "Id": "10075808737",
+    "Unread": true,
+    "Subject": {
+      "Title": "Bump github.com/go-git/go-git/v5 from 5.11.0 to 5.12.0",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/shipwright-io/build/pulls/1564"
+    },
+    "updated_at": "2024-04-01T10:00:08Z"
+  },
+  {
+    "Id": "10073580919",
+    "Unread": true,
+    "Subject": {
+      "Title": "Model Component Generator and Updater workflow run failed for master branch",
+      "Type": "CheckSuite",
+      "URL": ""
+    },
+    "updated_at": "2024-04-01T01:11:03Z"
+  },
+  {
+    "Id": "10071963698",
+    "Unread": true,
+    "Subject": {
+      "Title": "E2E tests for K8s components workflow run failed for master branch",
+      "Type": "CheckSuite",
+      "URL": ""
+    },
+    "updated_at": "2024-03-31T20:11:24Z"
+  }
+]
