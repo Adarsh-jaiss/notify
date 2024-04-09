@@ -1,0 +1,392 @@
+[
+  {
+    "Id": "9501517697",
+    "Unread": true,
+    "Subject": {
+      "Title": "[Docs] Tutorial: Accessing Meshery with Gateway API add-on",
+      "Type": "Issue",
+      "URL": "https://api.github.com/repos/meshery/meshery/issues/10333"
+    },
+    "updated_at": "2024-04-09T13:45:04Z"
+  },
+  {
+    "Id": "10184347010",
+    "Unread": true,
+    "Subject": {
+      "Title": "Suggested reading",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/meshery/meshery/pulls/10699"
+    },
+    "updated_at": "2024-04-09T13:33:52Z"
+  },
+  {
+    "Id": "10144008450",
+    "Unread": true,
+    "Subject": {
+      "Title": "Upgrade google.golang.org 1.63.0",
+      "Type": "Issue",
+      "URL": "https://api.github.com/repos/jaegertracing/jaeger/issues/5330"
+    },
+    "updated_at": "2024-04-09T13:03:57Z"
+  },
+  {
+    "Id": "10188073219",
+    "Unread": true,
+    "Subject": {
+      "Title": "[Extensions]Unable to import design of type Helm Chart",
+      "Type": "Issue",
+      "URL": "https://api.github.com/repos/meshery/meshery/issues/10702"
+    },
+    "updated_at": "2024-04-09T12:50:05Z"
+  },
+  {
+    "Id": "10082286868",
+    "Unread": true,
+    "Subject": {
+      "Title": "Bump next from 13.5.4 to 14.1.4 in /provider-ui",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/meshery/meshery/pulls/10658"
+    },
+    "updated_at": "2024-04-09T12:33:22Z"
+  },
+  {
+    "Id": "10172129551",
+    "Unread": true,
+    "Subject": {
+      "Title": "Make tabs `scrollable` for mobile screens",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/meshery/meshery/pulls/10689"
+    },
+    "updated_at": "2024-04-09T12:24:29Z"
+  },
+  {
+    "Id": "10169940174",
+    "Unread": true,
+    "Subject": {
+      "Title": "MeshModelComponent.js Component search fixed ",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/meshery/meshery/pulls/10686"
+    },
+    "updated_at": "2024-04-09T11:31:01Z"
+  },
+  {
+    "Id": "10141637242",
+    "Unread": true,
+    "Subject": {
+      "Title": "fix improper passing and usage of props",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/meshery/meshery/pulls/10674"
+    },
+    "updated_at": "2024-04-09T11:27:42Z"
+  },
+  {
+    "Id": "10176965264",
+    "Unread": true,
+    "Subject": {
+      "Title": "fix : Local Provider: Designs fail to load",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/meshery/meshery/pulls/10692"
+    },
+    "updated_at": "2024-04-09T11:25:54Z"
+  },
+  {
+    "Id": "10184892180",
+    "Unread": true,
+    "Subject": {
+      "Title": "Convert Class Component into Functional component",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/meshery/meshery/pulls/10701"
+    },
+    "updated_at": "2024-04-09T09:57:58Z"
+  },
+  {
+    "Id": "10184438071",
+    "Unread": true,
+    "Subject": {
+      "Title": "move from pages/integrations to models collection",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/meshery/meshery/pulls/10700"
+    },
+    "updated_at": "2024-04-09T08:17:24Z"
+  },
+  {
+    "Id": "10182421464",
+    "Unread": true,
+    "Subject": {
+      "Title": "remove extra strings from integration docs body",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/meshery/meshery/pulls/10698"
+    },
+    "updated_at": "2024-04-09T04:57:22Z"
+  },
+  {
+    "Id": "10178483349",
+    "Unread": true,
+    "Subject": {
+      "Title": "Revert \"Create enhanced.html\"",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/meshery/meshery/pulls/10697"
+    },
+    "updated_at": "2024-04-08T20:47:47Z"
+  },
+  {
+    "Id": "10171225312",
+    "Unread": true,
+    "Subject": {
+      "Title": "[Docs] - layout not being applied",
+      "Type": "Issue",
+      "URL": "https://api.github.com/repos/meshery/meshery/issues/10687"
+    },
+    "updated_at": "2024-04-08T20:37:01Z"
+  },
+  {
+    "Id": "10177718558",
+    "Unread": true,
+    "Subject": {
+      "Title": "update integrations pages to use integration layout",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/meshery/meshery/pulls/10695"
+    },
+    "updated_at": "2024-04-09T08:26:26Z"
+  },
+  {
+    "Id": "10158756705",
+    "Unread": true,
+    "Subject": {
+      "Title": "Update cleanup script to check for \"Terminating\" namespaces and patch finalizers field",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/meshery/meshery/pulls/10680"
+    },
+    "updated_at": "2024-04-08T20:34:36Z"
+  },
+  {
+    "Id": "10177662348",
+    "Unread": true,
+    "Subject": {
+      "Title": "switch layout from enhanced to default",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/meshery/meshery/pulls/10694"
+    },
+    "updated_at": "2024-04-08T20:21:05Z"
+  },
+  {
+    "Id": "10177758735",
+    "Unread": true,
+    "Subject": {
+      "Title": "Fix cloud path in integration workflow",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/meshery/meshery/pulls/10696"
+    },
+    "updated_at": "2024-04-08T19:41:04Z"
+  },
+  {
+    "Id": "10175394377",
+    "Unread": true,
+    "Subject": {
+      "Title": "Update Relationship documentation.",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/meshery/meshery/pulls/10690"
+    },
+    "updated_at": "2024-04-08T19:13:41Z"
+  },
+  {
+    "Id": "10089232186",
+    "Unread": true,
+    "Subject": {
+      "Title": "feat: environment command",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/meshery/meshery/pulls/10663"
+    },
+    "updated_at": "2024-04-08T19:13:17Z"
+  },
+  {
+    "Id": "10177505127",
+    "Unread": true,
+    "Subject": {
+      "Title": "move relationship generate command into registry",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/meshery/meshery/pulls/10693"
+    },
+    "updated_at": "2024-04-08T19:13:42Z"
+  },
+  {
+    "Id": "10164777086",
+    "Unread": true,
+    "Subject": {
+      "Title": "[CI][CLI] Include Cloud as a Target in the Publish Workflow",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/meshery/meshery/pulls/10683"
+    },
+    "updated_at": "2024-04-08T18:38:16Z"
+  },
+  {
+    "Id": "9460546091",
+    "Unread": true,
+    "Subject": {
+      "Title": "[Models][UX]: Design Icon for ArgoCD Component - Sensor",
+      "Type": "Issue",
+      "URL": "https://api.github.com/repos/meshery/meshery/issues/10300"
+    },
+    "updated_at": "2024-04-08T17:22:47Z"
+  },
+  {
+    "Id": "10056589446",
+    "Unread": true,
+    "Subject": {
+      "Title": "[CI] fix: Mesheryctl lint checks failing test",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/meshery/meshery/pulls/10643"
+    },
+    "updated_at": "2024-04-08T16:41:25Z"
+  },
+  {
+    "Id": "9694860170",
+    "Unread": true,
+    "Subject": {
+      "Title": "feat: push and pull subcommand for model command",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/meshery/meshery/pulls/10483"
+    },
+    "updated_at": "2024-04-08T16:29:26Z"
+  },
+  {
+    "Id": "10171262499",
+    "Unread": true,
+    "Subject": {
+      "Title": "Create enhanced.html",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/meshery/meshery/pulls/10688"
+    },
+    "updated_at": "2024-04-08T13:59:31Z"
+  },
+  {
+    "Id": "9071547235",
+    "Unread": true,
+    "Subject": {
+      "Title": "[DOCS] Dynamic Sidebar in progress",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/meshery/meshery/pulls/9950"
+    },
+    "updated_at": "2024-04-08T11:11:34Z"
+  },
+  {
+    "Id": "10155888022",
+    "Unread": true,
+    "Subject": {
+      "Title": "[UI] Registry: Components not listed in alphabetical order",
+      "Type": "Issue",
+      "URL": "https://api.github.com/repos/meshery/meshery/issues/10678"
+    },
+    "updated_at": "2024-04-08T18:40:30Z"
+  },
+  {
+    "Id": "10076063029",
+    "Unread": true,
+    "Subject": {
+      "Title": "Update to providers doc clarifying URLs",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/meshery/meshery/pulls/10646"
+    },
+    "updated_at": "2024-04-08T07:37:45Z"
+  },
+  {
+    "Id": "10155899179",
+    "Unread": true,
+    "Subject": {
+      "Title": "[UI] Registry: Component search doesn't work",
+      "Type": "Issue",
+      "URL": "https://api.github.com/repos/meshery/meshery/issues/10679"
+    },
+    "updated_at": "2024-04-08T06:22:50Z"
+  },
+  {
+    "Id": "10166191505",
+    "Unread": true,
+    "Subject": {
+      "Title": "Fix behavior to display helper function",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/meshery/meshery/pulls/10685"
+    },
+    "updated_at": "2024-04-08T14:28:35Z"
+  },
+  {
+    "Id": "10056189480",
+    "Unread": true,
+    "Subject": {
+      "Title": "fix height of registry section",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/meshery/meshery/pulls/10642"
+    },
+    "updated_at": "2024-04-08T03:15:02Z"
+  },
+  {
+    "Id": "10165015837",
+    "Unread": true,
+    "Subject": {
+      "Title": "[Cleanup] Remove unnecessary files added by publish workflow",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/meshery/meshery/pulls/10684"
+    },
+    "updated_at": "2024-04-08T00:56:48Z"
+  },
+  {
+    "Id": "10126843879",
+    "Unread": true,
+    "Subject": {
+      "Title": "Do not set dockerfile parameter to an empty string to align with behavior of alpha controller",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/shipwright-io/build/pulls/1569"
+    },
+    "updated_at": "2024-04-04T15:20:55Z"
+  },
+  {
+    "Id": "9945364316",
+    "Unread": true,
+    "Subject": {
+      "Title": "[SHIP-0038] Use Release Branches for Releasing",
+      "Type": "Issue",
+      "URL": "https://api.github.com/repos/shipwright-io/operator/issues/197"
+    },
+    "updated_at": "2024-04-04T14:09:37Z"
+  },
+  {
+    "Id": "9945456091",
+    "Unread": true,
+    "Subject": {
+      "Title": "[SHIP-0038] Use Release Branches for Releasing",
+      "Type": "Issue",
+      "URL": "https://api.github.com/repos/shipwright-io/cli/issues/238"
+    },
+    "updated_at": "2024-04-04T14:09:42Z"
+  },
+  {
+    "Id": "10121974100",
+    "Unread": true,
+    "Subject": {
+      "Title": "Bump github.com/prometheus/client_model from 0.6.0 to 0.6.1",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/shipwright-io/build/pulls/1568"
+    },
+    "updated_at": "2024-04-04T13:52:57Z"
+  },
+  {
+    "Id": "10092199955",
+    "Unread": true,
+    "Subject": {
+      "Title": "Correct multiple secret values in one array parameter that references different secret variables",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/shipwright-io/build/pulls/1566"
+    },
+    "updated_at": "2024-04-02T15:10:41Z"
+  },
+  {
+    "Id": "10075808737",
+    "Unread": true,
+    "Subject": {
+      "Title": "Bump github.com/go-git/go-git/v5 from 5.11.0 to 5.12.0",
+      "Type": "PullRequest",
+      "URL": "https://api.github.com/repos/shipwright-io/build/pulls/1564"
+    },
+    "updated_at": "2024-04-01T10:00:08Z"
+  }
+]

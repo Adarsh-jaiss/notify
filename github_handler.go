@@ -2,17 +2,16 @@ package main
 
 import (
 	"encoding/json"
-	
+
 	"fmt"
 	"net/http"
 	"os"
-
-
 )
 
 const (
-	GithubUrl = "https://api.github.com/notifications"               
-)  
+	GithubUrl = "https://api.github.com/notifications"
+)
+
 var Token = os.Getenv("GITHUB_TOKEN")
 
 type apifunc func(w http.ResponseWriter, r *http.Request) error
@@ -33,21 +32,13 @@ func WriteJSON(w http.ResponseWriter, code int, v any) error {
 
 func FetchNotificationsRepeated(w http.ResponseWriter, r *http.Request) error {
 	// for {
-		resp, err := FetchNotificationsFromGithub()
-		if err != nil {
-			fmt.Errorf("error fetching notifications:", err)
-		}
-		// time.Sleep(5 * time.Minute)
+	resp, err := FetchNotificationsFromGithub()
+	if err != nil {
+		fmt.Errorf("error fetching notifications:", err)
+	}
+	// time.Sleep(5 * time.Minute)
 	// }
 	return WriteJSON(w, http.StatusOK, resp)
-}
-
-func CreateJsonFiles ()  {
-	file, err := os.Create("./git.json")
-	if err != nil {
-		return 
-	}
-	defer file.Close()
 }
 
 func FetchNotificationsFromGithub() ([]GithubNotification, error) {
@@ -55,7 +46,7 @@ func FetchNotificationsFromGithub() ([]GithubNotification, error) {
 	if err != nil {
 		return nil, fmt.Errorf("error creating request: %v", err)
 	}
-	req.Header.Add("Authorization", "token "+ Token)
+	req.Header.Add("Authorization", "token "+Token)
 	fmt.Printf("Token: %v\n", Token)
 	req.Header.Set("Accept", "application/vnd.github.v3+json")
 
@@ -78,20 +69,19 @@ func FetchNotificationsFromGithub() ([]GithubNotification, error) {
 	}
 
 	// err := json.Unmarshal(resp.body, &htmlURL)
-    // if err != nil {
-    //     return "", err
-    // }
+	// if err != nil {
+	//     return "", err
+	// }
 	// return resp.Body.html, nil
-
-
-	file, err := os.Create("./git.json")
+	os.Mkdir("json", 0755)
+	file, err := os.Create("./json/git.json")
 	if err != nil {
 		return nil, fmt.Errorf("error creating file: %v", err)
 	}
 	defer file.Close()
 
 	// creating an additional file to store the data for sending it to the frontend
-	CreateJsonFiles()
+	// CreateJsonFiles()
 	encoder := json.NewEncoder(file)
 	encoder.SetIndent("", "  ")
 	err = encoder.Encode(Notifications)
